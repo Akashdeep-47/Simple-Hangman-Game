@@ -22,3 +22,14 @@ Hangman is an old school favorite, a word game where the goal is simply to find 
  python game.py
  ```
  4. Enjoy guessing the missing words.
+
+---
+
+## :key: Result 
+<img src="https://github.com/Akashdeep-47/Simple-Hangman-Game/blob/master/Screenshot/result.png?raw=true" width=800>
+
+---
+
+## :clap: And it's done!
+Feel free to mail me for any doubts/query 
+:email: akashdeepg06@gmail.com
