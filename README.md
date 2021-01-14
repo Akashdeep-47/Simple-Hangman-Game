@@ -8,6 +8,8 @@ Hangman is an old school favorite, a word game where the goal is simply to find 
 ## :key: Prerequisites
 - You should install python version 3.7
 
+---
+
 # 🚀&nbsp;Installation 
 1. Clone the repository 
 ```
